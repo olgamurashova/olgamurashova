@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Olga Murashova-Dreyfus. I am a data engineer based in New York City. My interests lie in data engineering, software development and data analysis.
+My name is Olga Murashova-Dreyfus. I am a data engineer based in New York City. I have BA in English Studies. My interests lie in data engineering, software development and data analysis.
 I am currently looking for junior level opportunities in data engineering and data analysis. 
 
  ---
