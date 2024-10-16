@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Olga Murashova. I am a data engineer based in New York City. I have BA in English Studies. My interests lie in data engineering, software development and data analysis.
-I am currently looking for junior level opportunities in data engineering and data analysis. 
+My name is Olga Murashova. I am a data analyst based in New York City. I have BA in English Studies. My interests lie in data analytics, data science, and machine elarning.
+I am currently looking for junior level opportunities in data science. 
 
  ---
  <p align="center">
