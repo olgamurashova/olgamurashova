@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Olga Murashova. I am a data analyst based in New York City. I am pursuing a Masters Degree in Data Analytics/Data Science at Georgia Tech. 
+My name is Olga Murashova. I am a data analyst based in New York City. I am pursuing a Masters of Science in OMS Analytics program at Georgia Tech. 
 My interests lie in data analytics, data science, and machine learning.
 I am currently looking for junior level opportunities in data science. 
 
